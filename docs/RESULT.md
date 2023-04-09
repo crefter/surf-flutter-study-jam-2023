@@ -4,47 +4,47 @@ Android, pixel 5, API 29
 
 # Результаты
 <ol>
-<li>Сделал экран с пустым состоянием
-<img src="./docs/assets/empty.png" width="375" alt="Empty screen" />
+<li>Сделал экран с пустым состоянием<br>
+<img src="assets/empty.png" width="375" alt="Empty screen" />
 </li>
 <li>
-По клику на кнопку добавить появляется BottomSheet, в который можно ввести url. Если в буфере обмена уже имеется ссылка на pdf-файл, то ссылка вставится автоматически. Также появляется снекбар
-<img src="./docs/assets/2.gif" width="375" alt="Empty screen" />
-<img src="./docs/assets/2.webm" width="375" alt="Empty screen" />
+По клику на кнопку добавить появляется BottomSheet, в который можно ввести url. Если в буфере обмена уже имеется ссылка на pdf-файл, то ссылка вставится автоматически. Также появляется снекбар<br>
+<img src="assets/2.gif" width="375" alt="Empty screen" />
+<img src="assets/2.webm" width="375" alt="Empty screen" />
 <br>
 </li>
 <li>
-Валидация данных: нельзя ввести неверный url и файл не расширения pdf
-<img src="./docs/assets/7.gif" width="375" alt="Empty screen" />
-<img src="./docs/assets/7.webm" width="375" alt="Empty screen" />
+Валидация данных: нельзя ввести неверный url и файл не расширения pdf<br>
+<img src="assets/7.gif" width="375" alt="Empty screen" />
+<img src="assets/7.webm" width="375" alt="Empty screen" />
 <br>
 </li>
 <li>
-Сделано сохранение данных локально в БД
+Сделано сохранение данных локально в БД<br>
 <br>
 </li>
 <li>
-Кнопка скрывается, когда достигает конца списка
-<img src="./docs/assets/3.gif" width="375" alt="Empty screen" />
-<img src="./docs/assets/3.webm" width="375" alt="Empty screen" />
+Кнопка скрывается, когда достигает конца списка<br>
+<img src="assets/3.gif" width="375" alt="Empty screen" />
+<img src="assets/3.webm" width="375" alt="Empty screen" />
 <br>
 </li>
 <li>
-По нажатию на кнопку, файл скачивается, также меняются иконки в зависимости от состояния. Можно удалить файл и тикет при помощи свайпа
+По нажатию на кнопку, файл скачивается, также меняются иконки в зависимости от состояния. Можно удалить файл и тикет при помощи свайпа <br>
 <img src="assets/4.gif" width="375" alt="Empty screen" />
 <img src="assets/4.webm" width="375" alt="Empty screen" />
 <br>
 </li>
 <li>
-Можно просмотреть pdf-файл - необходимо осуществить LongPress
-<img src="./docs/assets/5.gif" width="375" alt="Empty screen" />
-<img src="./docs/assets/5.webm" width="375" alt="Empty screen" />
+Можно просмотреть pdf-файл - необходимо осуществить LongPress<br>
+<img src="assets/5.gif" width="375" alt="Empty screen" />
+<img src="assets/5.webm" width="375" alt="Empty screen" />
 <br>
 </li>
 <li>
-Можно отсортировать файлы по дате и состоянию загрузки.
-<img src="./docs/assets/6.gif" width="375" alt="Empty screen" />
-<img src="./docs/assets/6.webm" width="375" alt="Empty screen" />
+Можно отсортировать файлы по дате и состоянию загрузки.<br>
+<img src="assets/6.gif" width="375" alt="Empty screen" />
+<img src="assets/6.webm" width="375" alt="Empty screen" />
 <br>
 </li>
 <li>
