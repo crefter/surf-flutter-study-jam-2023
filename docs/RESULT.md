@@ -18,7 +18,6 @@ Android, pixel 5, API 29
 <br>
 </li>
 <li>
-<br>
 <strong>Сделано сохранение данных локально в БД</strong><br>
 <br>
 </li>
