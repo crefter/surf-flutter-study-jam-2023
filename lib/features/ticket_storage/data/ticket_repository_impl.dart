@@ -8,7 +8,7 @@ import 'package:surf_flutter_study_jam_2023/features/ticket_storage/domain/repos
 class TicketRepositoryImpl extends TicketRepository {
   final LocalDatasource _localDatasource;
   final RemoteDatasource _remoteDatasource;
-  late CancelToken token;
+  late CancelToken token = CancelToken();
 
   TicketRepositoryImpl({
     required LocalDatasource local,

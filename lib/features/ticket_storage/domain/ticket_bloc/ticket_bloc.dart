@@ -58,12 +58,6 @@ class TicketBloc extends Bloc<TicketEvent, TicketState> {
     _TicketPauseEvent event,
     Emitter<TicketState> emit,
   ) async {
-    try {
-      await repository.cancel();
-      emit(TicketState.paused(state.ticket!));
-    } catch (e) {
-      print(e);
-    }
   }
 
   Future<void> _onResume(
