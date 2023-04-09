@@ -32,7 +32,7 @@ Android, pixel 5, API 29
 <br>
 </li>
 <li>
-<strong>Можно просмотреть pdf-файл - необходимо осуществить LongPress</strong><br>
+<strong>Можно просмотреть pdf-файл - необходимо осуществить LongPress. Для просмотра берется локальный файл</strong><br>
 <img src="assets/5.gif" width="375" alt="Empty screen" />
 <br>
 </li>
